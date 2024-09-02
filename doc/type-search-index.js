@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"aed_TP1","l":"Cosine"},{"p":"aed_TP1","l":"Hamming"},{"p":"aed_TP1","l":"HammingException"},{"p":"aed_TP1","l":"InvalidMetricException"},{"p":"aed_TP1","l":"Jaccard"},{"p":"aed_TP1","l":"Levenshtein"},{"p":"aed_TP1","l":"Table"}];updateSearchResults();
